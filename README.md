@@ -1,2 +1,2 @@
-# assignment1.
+# Saylani-Javascript-Assignments.
 javascriptCourseAssignment
